@@ -30,3 +30,10 @@
 - [Have you ever got into ping issue](https://dev.to/amaravindmenon/have-you-ever-got-into-ping-issue-5de9)
 - [Installing Kali GUI in Azure Virtual Machine](https://dev.to/amaravindmenon/installing-kali-gui-in-azure-virtual-machine-1de2)
 <!-- BLOG-POST-LIST:END -->
+
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
