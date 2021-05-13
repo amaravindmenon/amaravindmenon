@@ -7,12 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/aravindmenon12" target="blank"><img src="https://img.shields.io/twitter/follow/aravindmenon12?logo=twitter&style=for-the-badge" alt="aravindmenon12" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Have you ever got into ping issue](https://dev.to/amaravindmenon/have-you-ever-got-into-ping-issue-5de9)
-- [Installing Kali GUI in Azure Virtual Machine](https://dev.to/amaravindmenon/installing-kali-gui-in-azure-virtual-machine-1de2)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/amaravindmenon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="amaravindmenon" height="30" width="40" /></a>
@@ -30,3 +24,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaravindmenon&show_icons=true&locale=en" alt="amaravindmenon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amaravindmenon&" alt="amaravindmenon" /></p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [Have you ever got into ping issue](https://dev.to/amaravindmenon/have-you-ever-got-into-ping-issue-5de9)
+- [Installing Kali GUI in Azure Virtual Machine](https://dev.to/amaravindmenon/installing-kali-gui-in-azure-virtual-machine-1de2)
+<!-- BLOG-POST-LIST:END -->
