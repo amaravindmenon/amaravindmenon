@@ -3,7 +3,7 @@
 <h4 align="center"> GITHUB PORTFOLIO </h4>
 <h4 align="center">Check Out => <a href="https://techsoftmedia.carrd.co/">techsoftmedia.carrd.co</a>
 <!-- https://github.com/amaravindmenon -->
-<p align="left"> <img src="dev-working.gif" alt="amaravindmenon" height="200px" width="220px"/> </p>
+<p align="left"> <img src="dev-working.gif" alt="amaravindmenon"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaravindmenon&label=Profile%20views&color=0e75b6&style=flat" alt="amaravindmenon" /> </p>
 
 <table width="100%">
