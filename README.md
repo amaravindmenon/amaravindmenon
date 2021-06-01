@@ -48,9 +48,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Create awesome github profile | Github Profile | Github readme | Github blog and youtube workflow](https://www.youtube.com/watch?v=V7nHV37CgBQ)
+- [Create A Github Profile Readme (New)| Github Tuts | Github readme | Github blog and youtube workflow](https://www.youtube.com/watch?v=V7nHV37CgBQ)
 - [Temporary failure in name resolution | Fix | problem resolved | ping issue solved](https://www.youtube.com/watch?v=UOszyo1EZvs)
-- [KALI GUI on Azure Virtual machine | How to Setup Linux GUI on Remote Desktop Protocol | Pentest box](https://www.youtube.com/watch?v=24KsWyw7Ca0)
+- [KALI GUI on Azure Virtual Machine | How to Setup Linux GUI on Remote Desktop Protocol | Pentest box](https://www.youtube.com/watch?v=24KsWyw7Ca0)
 - [Are you safe using Android Apps | Android Security | Data Security | Data breaching | Android | IOS](https://www.youtube.com/watch?v=inhCHBF133k)
 - [Have you been Victim for Data Leak or Data Breach | Data Breach | Data Security | haveibeenpwned |4K](https://www.youtube.com/watch?v=76QRbFEiX5g)
 <!-- YOUTUBE:END -->
