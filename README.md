@@ -13,7 +13,7 @@
         <table>
                 <tr>
                 <td align="center" width="200">
-                <a href="https://github.com/amaravindmenon">
+                <a href="https://www.youtube.com/techsoftmedia">
                 <img width="100%" src="https://yt3.ggpht.com/ytc/AAUvwnjbD6ONOtnt8CBysp4Eq9A4fhAO21KrCo4offOiIQ=s88-c-k-c0x00ffffff-no-rj" />
                 </a>
                 </td>
